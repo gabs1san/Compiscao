@@ -26,7 +26,7 @@ namespace Compiscao.Entities
             Department = department;
         }
         
-        public void AddContract(HouerContract contract)
+        public void AddContract(HourContract contract)
         {
             Contracts.Add(contract);
         }
